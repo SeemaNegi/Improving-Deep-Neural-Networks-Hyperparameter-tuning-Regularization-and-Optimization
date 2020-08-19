@@ -9,3 +9,15 @@ The assignment allows to:-
 - Recognize that random initialization "breaks symmetry" and yields more efficient models,
 
 - Understand that we could use both random initialization and scaling to get even better training performance on your model.
+
+## Week 1 / Regularization:-
+
+The assignment allows to:-
+
+- Understand that different regularization methods that could help our model.
+
+- Implement dropout and see it work on data.
+
+- Recognize that a model without regularization gives us a better accuracy on the training set but nor necessarily on the test set.
+
+- Understand that we could use both dropout and regularization on our model.
