@@ -21,3 +21,16 @@ The assignment allows to:-
 - Recognize that a model without regularization gives us a better accuracy on the training set but nor necessarily on the test set.
 
 - Understand that we could use both dropout and regularization on our model.
+
+
+## Week 1 / Gradient Checking:-
+
+The assignment allows to:-
+
+- Implement gradient checking from scratch.
+
+- Understand how to use the difference formula to check our backpropagation implementation.
+
+- Recognize that our backpropagation algorithm should give us similar results as the ones we got by computing the difference formula.
+
+- Learn how to identify which parameter's gradient was computed incorrectly.
