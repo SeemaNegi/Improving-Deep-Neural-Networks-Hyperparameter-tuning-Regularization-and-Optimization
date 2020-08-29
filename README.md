@@ -34,3 +34,13 @@ The assignment allows to:-
 - Recognize that our backpropagation algorithm should give us similar results as the ones we got by computing the difference formula.
 
 - Learn how to identify which parameter's gradient was computed incorrectly.
+
+
+## Week 2 / Optimization:-
+The assignment allows to:-
+
+- Understand the intuition between Adam and RMS prop
+
+- Recognize the importance of mini-batch gradient descent
+
+- Learn the effects of momentum on the overall performance of our model
