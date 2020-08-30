@@ -44,3 +44,9 @@ The assignment allows to:-
 - Recognize the importance of mini-batch gradient descent
 
 - Learn the effects of momentum on the overall performance of our model
+
+## Week 3 / Tensorflow:-
+
+In this notebook we will learn all the basics of Tensorflow. We will implement useful functions and draw the parallel with what we did using Numpy in previous notebooks. We will understand what Tensors and operations are, as well as how to execute them in a computation graph.
+
+After completing this assignment we will also be able to implement our own deep learning models using Tensorflow. 
